@@ -1,8 +1,7 @@
 # puppeteer
 
-## Synopsis
 
-puppeteer
+puppeteer testing
 
 ## Install
 
