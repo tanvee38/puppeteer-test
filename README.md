@@ -6,13 +6,13 @@ puppeteer
 
 ## Install
 
-1. Intall node.JS (in case it is not installed on your system)
+1. Intall node.JS (In case it is not installed on your system)
 
     Kindly follow the below link to download and install
 
     https://nodejs.org/en/download/
 
-2. Intall Git (in case it is not installed on your system)
+2. Intall Git (In case it is not installed on your system)
 
    Kindly follow the below link to download and install
 
